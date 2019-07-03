@@ -13,29 +13,20 @@ object SecondarySort {
     //val input =  sc.textFile(inputFile)
     val input = sc.textFile("inputSS.txt")
     // Split up into words.
+    val intermediate = input.map(_.split(",")).map { k => ((k(0), k(1)), k(2)) }
 
-    val inputData =  input.map(x => (
-      (x.split(",")(0) + "-" + x.split(",")(1) , x.split(",")(3)) , x.split(",")(3) ));
+    val intermediate2 = intermediate.groupByKey(2).flatMapValues(_.toList.combinations(2))
 
-    val intermediate = inputData.groupByKey(2).mapValues(iter => iter.toList.sortBy(k => k))
 
-//
-val outPut = intermediate.flatMap {
-  case (label, list) => {
-    list.map((label, _))
-  }
-}
+//    intermediate2.foreach { println }
 
-    println(outPut.foreach(println))
+    val output = intermediate2.mapValues { case (vals: List[(String, Integer)]) => ((vals(0), vals(1))) }
 
-    //    val map_ii =  input.map(_.split(","))
-//      .flatMap(x => x.drop(1).map(y => (y, x(0))))
-//      .groupBy(_._1)
-//      .map(p => (p._1, p._2.map(_._2).toVector))
-//
-//    println(map_ii.take(6).foreach(println))
-//    map_ii.saveAsTextFile("outputII")
 
+
+//    output.foreach { println }
+
+    output.saveAsTextFile("secondarysort")
 
   }
 }
