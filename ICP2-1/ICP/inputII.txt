@@ -1,0 +1,2 @@
+document1.txt hai how are you
+document2.txt hello  are you

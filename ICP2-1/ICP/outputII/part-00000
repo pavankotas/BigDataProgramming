@@ -1,0 +1,5 @@
+(are,Vector(document1.txt, document2.txt))
+(how,Vector(document1.txt))
+(,Vector(document2.txt))
+(hai,Vector(document1.txt))
+(hello,Vector(document2.txt))
