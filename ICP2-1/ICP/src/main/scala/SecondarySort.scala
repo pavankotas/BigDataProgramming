@@ -26,7 +26,7 @@ object SecondarySort {
 
 //    output.foreach { println }
 
-    output.saveAsTextFile("secondarysort")
+    output.saveAsTextFile("OutputSecondarySort")
 
   }
 }

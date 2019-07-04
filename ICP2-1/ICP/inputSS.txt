@@ -1,6 +1,6 @@
-Chicago,Highest,90
-Chicago,Highest,80
-KC,Lowest,50
-KC,Lowest,40
-Tampa,Highest,60
-Tampa,Highest,90
+Missouri,High,80
+Nebraska,Low, 20
+Missouri,High,50
+Florida,Low,50
+Nebraska,Low,60
+Florida,Low,10
