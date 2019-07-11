@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8c46d9b-81cf-4f31-9f64-93448bc12dd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surveyoutput.csv/._SUCCESS.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/surveyoutput.csv/.part-00000-1528c4bb-8b50-4dd3-ba1a-2d7534ec6b61-c000.csv.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/surveyoutput.csv/_SUCCESS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/surveyoutput.csv/part-00000-1528c4bb-8b50-4dd3-ba1a-2d7534ec6b61-c000.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="b8c46d9b-81cf-4f31-9f64-93448bc12dd8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/part1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -91,17 +84,15 @@
               <item name="SparkSql" type="b2602c69:ProjectViewProjectNode" />
               <item name="SparkSql" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SparkSql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkSql" type="462c0819:PsiDirectoryNode" />
-              <item name="surveyoutput.csv" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ICP2-4/spark-streaming/spark-streaming" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,14 +180,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43207857" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42716858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -244,10 +234,13 @@
     <entry file="file://$PROJECT_DIR$/demo.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Images/1.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/part1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
