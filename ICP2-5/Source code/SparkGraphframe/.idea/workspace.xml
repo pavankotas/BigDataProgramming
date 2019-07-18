@@ -2,13 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afe7d7d1-4b71-4de4-8bc3-fb849cc2b42a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP2-1/ICP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP2-1/ICP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP2-3/SparkDataframe0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP2-3/SparkDataframe0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP2-3/SparkSql/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP2-3/SparkSql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TriangleCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TriangleCounter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP2-6/Source code/SparkGraphframe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP2-6/Source code/SparkGraphframe/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$261b384745ac0dba04f3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$261b384745ac0dba04f3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$261b384745ac0dba04f3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkGraphFrame.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SparkGraphFrame.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkGraphFrame$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/SparkGraphFrame$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/sparkdataframe-sparkdataframe$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/sparkdataframe/sparkdataframe$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/sparkdataframe/sparkdataframe$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/sparkdataframe/sparkdataframe$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/sparkdataframe/sparkdataframe$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,20 +79,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SparkGraphFrame.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1166">
+              <caret line="89" column="30" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/SparkGraphFrame.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/TriangleCounter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/demo.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -91,6 +132,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/SparkDataFrame.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/SparkGraphFrame.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TriangleCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TriangleCounter.scala" />
       </list>
     </option>
   </component>
@@ -130,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,41 +180,19 @@
               <item name="SparkGraphframe" type="b2602c69:ProjectViewProjectNode" />
               <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SparkGraphframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkGraphframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkGraphframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkGraphframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563239482078" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563419029457" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ICP2-6/Source code/SparkGraphframe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -200,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SparkGraphFrame">
+  <component name="RunManager" selected="Application.TriangleCounter">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -217,6 +237,22 @@
     </configuration>
     <configuration name="SparkGraphFrame" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="SparkGraphFrame" />
+      <module name="SparkDataframe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TriangleCount" />
+      <module name="SparkDataframe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleCounter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TriangleCounter" />
       <module name="SparkDataframe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -284,11 +320,15 @@
     <list>
       <item itemvalue="Application.WordCOunt" />
       <item itemvalue="Application.SparkDataFrame (1)" />
-      <item itemvalue="Application.Wordcount" />
       <item itemvalue="Application.SparkGraphFrame" />
+      <item itemvalue="Application.Wordcount" />
+      <item itemvalue="Application.TriangleCount" />
+      <item itemvalue="Application.TriangleCounter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriangleCounter" />
+        <item itemvalue="Application.TriangleCount" />
         <item itemvalue="Application.SparkGraphFrame" />
         <item itemvalue="Application.SparkDataFrame (1)" />
         <item itemvalue="Application.Wordcount" />
@@ -323,7 +363,8 @@
     <option name="modificationStamps">
       <map>
         <entry key="C:/Users/Maham/Desktop/IOT/Big data/SparkDataframe" value="0" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="455441055" />
+        <entry key="$PROJECT_DIR$" value="3103807715864" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3342492748" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2125951362" />
       </map>
     </option>
@@ -358,7 +399,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -367,14 +408,14 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21276596" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48281506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.2782324" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32733223" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -411,15 +452,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/201508_trip_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="77" lean-forward="true" selection-start-column="66" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TriangleCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/demo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/SparkGraphFrame.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        <state relative-caret-position="1166">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TriangleCounter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
